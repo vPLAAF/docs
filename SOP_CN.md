@@ -21,7 +21,7 @@ vPLAAF 为完全虚构的虚拟飞行组织，仅以飞行模拟与线上娱乐�
 - **VATSIM Code of Conduct（行为守则）**
 - **VATSIM Code of Regulations**
 - **VATSIM Special Operations Policy（特殊作业政策）**
-- **vPLAAF 其他补充     SOP、训练大纲、任务简令、协定（LOA）等内部文件**
+- **vPLAAF 其他补充 SOP、训练大纲、任务简令、协定（LOA）等内部文件**
 
 在 VATSIM 网络飞行时，如本 SOP 与 VATSIM 官方文件冲突，以 VATSIM 官方文件为最高优先。
 
