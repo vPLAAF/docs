@@ -196,13 +196,13 @@ vPLAAF 仅在必要时限内保留个人数据：
 
 ------
 
-# 11. 数据控制者（Data Controller）
+# 11. 数据控制者
 
 vPLAAF 指定的数据控制者为：
 
 **vPLAAF Command Staff**
 
-> Email: TODO
+> Email: commander@vplaaf.org
 
 其负责：
 
@@ -244,5 +244,6 @@ vPLAAF 可根据需要更新本隐私政策。
 
 如有任何隐私相关问题：
 
-> **Email:** TODO
->  **Discord:** 联系任何一位 vPLAAF 指挥部成员
+> **Email:** commander@vplaaf.org
+>
+> **Discord:** 联系任何一位 vPLAAF 职员
