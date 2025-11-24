@@ -179,6 +179,7 @@ To exercise these rights, contact the Data Controller.
 The designated Data Controller for vPLAAF is:
 
 **vPLAAF Command Staff**
+
 > Email: TODO
 
 Responsible for:
