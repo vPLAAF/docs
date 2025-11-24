@@ -202,7 +202,7 @@ vPLAAF 指定的数据控制者为：
 
 **vPLAAF Command Staff**
 
-> Email: commander@vplaaf.org
+> Email: co@vplaaf.org
 
 其负责：
 
@@ -244,6 +244,6 @@ vPLAAF 可根据需要更新本隐私政策。
 
 如有任何隐私相关问题：
 
-> **Email:** commander@vplaaf.org
+> **Email:** co@vplaaf.org
 >
 > **Discord:** 联系任何一位 vPLAAF 职员

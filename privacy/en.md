@@ -180,7 +180,7 @@ The designated Data Controller for vPLAAF is:
 
 **vPLAAF Command Staff**
 
-> Email: commander@vplaaf.org
+> Email: co@vplaaf.org
 
 Responsible for:
 
@@ -216,6 +216,6 @@ The updated version is effective upon publication.
 
 For all privacy inquiries:
 
->**Email:** commander@vplaaf.org
+>**Email:** co@vplaaf.org
 >
 >**Discord:** Contact any member of the vPLAAF Staff
