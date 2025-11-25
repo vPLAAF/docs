@@ -1,10 +1,18 @@
 # **虚拟中国人民解放军空军（vPLAAF）标准作业程序（SOP）**
 
+> 本文档为英文版"vPLAAF Standard Operating Procedures"的原文，一切内容以本文中文版本为准
+
+**修订历史**
+
+| 版本 | 日期       | 作者             |
+| ---- | ---------- | -------------------- |
+| 1.0  | 2025年11月 | Lihan Bao / 1435267 |
+
 ------
 
 ## **前言**
 
-本标准作业程序（Standard Operating Procedures，下称 “本 SOP”）用于规范虚拟中国人民解放军空军（virtual People’s Liberation Army Air Force，下称 “vPLAAF”）在 VATSIM 网络上的各项活动，包括组织管理、成员行为、飞行与任务的基本要求等，为全体成员提供统一的作业依据。
+本标准作业程序（Standard Operating Procedures，下称 “本 SOP”）用于规范虚拟中国空军（vPLAAF）在 VATSIM 网络上的各项活动，包括组织管理、成员行为、飞行与任务的基本要求等，为全体成员提供统一的作业依据。
 
 vPLAAF 为完全虚构的虚拟飞行组织，仅以飞行模拟与线上娱乐为目的。
  vPLAAF 与现实的中国人民解放军空军、任何现实的政府机关、军事单位或商业机构**不存在任何形式的隶属、从属、合作或授权关系**。
@@ -134,12 +142,12 @@ vPLAAF 主要开展的虚拟任务类型包括但不限于：
 
 ## **第八条 官方平台与信息渠道**
 
-1. vPLAAF 设立官方网站（域名及地址由司令部确定后公告），用于：
+1. vPLAAF 设立官方网站（[www.vplaaf.org](www.vplaaf.org)），用于：
    1. 成员注册与信息管理；
    2. 任务发布与活动报名；
    3. 飞行记录、统计与奖励；
    4. 文档与资料存档。
-2. vPLAAF 指定至少一种主要即时通讯平台（如 Discord 等），用作：
+2. vPLAAF 指定至少一种主要即时通讯平台（Discord 等），用作：
    1. 日常沟通与通知；
    2. 任务简报（briefing）与讲评（debriefing）；
    3. 技术交流与问题反馈。
@@ -195,7 +203,7 @@ vPLAAF 主要开展的虚拟任务类型包括但不限于：
 
 ## **第十二条 活跃度管理**
 
-为保证 vPLAAF（Virtual PLAAF）作为 VSOA（Virtual Special Operations Association）成员的持续运作能力、审计合规性以及成员训练质量，依据《VATSIM Special Operations Policy v4.0》相关规定，特制定以下活跃度管理条款。
+为保证 vPLAAF 作为 VSOA（Virtual Special Operations Association）成员的持续运作能力、审计合规性以及成员训练质量，依据《VATSIM Special Operations Policy v4.0》相关规定，特制定以下活跃度管理条款。
 
 **1. 活跃成员（Active Pilot）定义**
 
@@ -579,5 +587,5 @@ LOA 优先于本 SOP，但不可违反上位规则。
 
 ## **第二十九条 生效与废止**
 
-1. 本 SOP 自 ____ 年 ____ 月 ____ 日生效。
+1. 本 SOP 自 2025 年 11 月 20 日生效。
 2. 在本 SOP 生效前已发布且与本 SOP 内容不一致的内部规定，如未另行说明，自本 SOP 生效之日起自动废止或以最新公告为准。
