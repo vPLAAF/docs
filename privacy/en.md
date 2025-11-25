@@ -1,5 +1,7 @@
 # vPLAAF Privacy Policy
 
+> This English document constitutes the original version of the Chinese version ‘vPLAAF Privacy Policy’. All content herein shall be governed by this English version.
+
 **Revision History**
 
 | Version | Date          | Author               |
@@ -8,7 +10,7 @@
 
 # 1. Purpose of Policy
 
-This Privacy Policy describes how the virtual People’s Liberation Army Air Force (vPLAAF) collects, uses, stores, and protects personal data in accordance with the **EU General Data Protection Regulation (GDPR)**, a copy of which is available [here](https://gdpr-info.eu/).
+This Privacy Policy describes how the vPLAAF collects, uses, stores, and protects personal data in accordance with the **EU General Data Protection Regulation (GDPR)**, a copy of which is available [here](https://gdpr-info.eu/).
 
 vPLAAF is a non-profit virtual aviation organization operating on the VATSIM network.
 We only collect data necessary for membership management and operational safety.
@@ -178,9 +180,9 @@ To exercise these rights, contact the Data Controller.
 
 The designated Data Controller for vPLAAF is:
 
-**vPLAAF Command Staff**
+**vPLAAF Headquarters**
 
-> Email: co@vplaaf.org
+> Email: [co@vplaaf.org](mailto:co@vplaaf.org), [dco@vplaaf.org](mailto:dco@vplaaf.org)
 
 Responsible for:
 
@@ -216,6 +218,6 @@ The updated version is effective upon publication.
 
 For all privacy inquiries:
 
->**Email:** co@vplaaf.org
+>**Email:** [co@vplaaf.org](mailto:co@vplaaf.org), [dco@vplaaf.org](mailto:dco@vplaaf.org)
 >
 >**Discord:** Contact any member of the vPLAAF Staff

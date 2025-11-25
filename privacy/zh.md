@@ -1,8 +1,10 @@
 # vPLAAF 隐私政策
 
+> 本文档为英文版"vPLAAF Privacy Policy"的译文，一切内容以英文版本为准
+
 **修订历史**
 
-| 版本 | 日期       | 作者                 |
+| 版本 | 日期       | 作(译)者             |
 | ---- | ---------- | -------------------- |
 | 1.0  | 2025年11月 | Xinrui Wan / 1897662 |
 
@@ -10,7 +12,7 @@
 
 # 1. 政策目的
 
-本《隐私政策》描述虚拟中国人民解放军空军（virtual People’s Liberation Army Air Force，简称 **vPLAAF**）如何依据 **欧盟《通用数据保护条例》（GDPR）** 收集、使用、存储与保护个人数据（GDPR 原文可在 https://gdpr-info.eu/ 查阅）。
+本《隐私政策》描述虚拟中国空军（vPLAAF）如何依据 **欧盟《通用数据保护条例》（GDPR）** 收集、使用、存储与保护个人数据（GDPR 原文可在 https://gdpr-info.eu/ 查阅）。
 
 vPLAAF 是在 VATSIM 网络上运营的非营利虚拟航空组织。
 本组织仅收集用于会员管理与运行安全所必需的数据。
@@ -200,9 +202,9 @@ vPLAAF 仅在必要时限内保留个人数据：
 
 vPLAAF 指定的数据控制者为：
 
-**vPLAAF Command Staff**
+**vPLAAF 司令部**
 
-> Email: co@vplaaf.org
+> Email: [co@vplaaf.org](mailto:co@vplaaf.org)、[dco@vplaaf.org](mailto:dco@vplaaf.org)
 
 其负责：
 
@@ -244,6 +246,6 @@ vPLAAF 可根据需要更新本隐私政策。
 
 如有任何隐私相关问题：
 
-> **Email:** co@vplaaf.org
+> **Email:** [co@vplaaf.org](mailto:co@vplaaf.org)、[dco@vplaaf.org](mailto:dco@vplaaf.org)
 >
 > **Discord:** 联系任何一位 vPLAAF 职员
