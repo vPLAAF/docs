@@ -1,6 +1,6 @@
 # vPLAAF Privacy Policy
 
-> This English document constitutes the original version of the Chinese version ‘vPLAAF Privacy Policy’. All content herein shall be governed by this English version.
+> This document is the original Englishversion of the “vPLAAF Privacy Policy.” In case of any inconsistency, the English version shall prevail.
 
 **Revision History**
 

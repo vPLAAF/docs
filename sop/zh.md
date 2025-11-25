@@ -1,4 +1,4 @@
-# **虚拟中国人民解放军空军（vPLAAF）标准作业程序（SOP）**
+# **虚拟中国空军（vPLAAF）标准作业程序（SOP）**
 
 > 本文档为英文版"vPLAAF Standard Operating Procedures"的原文，一切内容以本文中文版本为准
 
@@ -159,7 +159,7 @@ vPLAAF 主要开展的虚拟任务类型包括但不限于：
 
 ## **第八条 官方平台与信息渠道**
 
-1. vPLAAF 设立官方网站（[www.vplaaf.org](www.vplaaf.org)），用于：
+1. vPLAAF 设立官方网站（[https://www.vplaaf.org](https://www.vplaaf.org)），用于：
    1. 成员注册与信息管理；
    2. 任务发布与活动报名；
    3. 飞行记录、统计与奖励；
@@ -301,7 +301,7 @@ vPLAAF 主要开展的虚拟任务类型包括但不限于：
 - 月度/季度 飞行小时/次数 Top 10 公示
 - 内部晋升参考指标
 
-**12.9 特殊情况例外**
+**9. 特殊情况例外**
 
 成员如因以下情况无法满足活跃度要求，可申请豁免：
 
@@ -487,8 +487,8 @@ LOA 优先于本 SOP，但不可违反上位规则。
    3. 在备注栏（RMK/）中标注 vPLAAF 身份及任务类型，例如：
 
       ```
-      RMK/vPLAAF – TRAINING – VSO – VSO ID
-      RMK/vPLAAF – EXERCISE – VSO – VSO ID
+      RMK/VSO - vPLAAF - FORMATION TRAINING – WWW.VPLAAF.ORG
+      RMK/VSO - vPLAAF – INTERCEPT TRAINING – WWW.VPLAAF.ORG
       ```
 
 2. 呼号设计应在不与其他组织冲突的前提下保持清晰、一致，具体格式由任务简令及相关 LOA 详细规定。
@@ -604,5 +604,5 @@ LOA 优先于本 SOP，但不可违反上位规则。
 
 ## **第二十九条 生效与废止**
 
-1. 本 SOP 自 2025 年 11 月 20 日生效。
+1. 本 SOP 自 **2025 年 11 月 20 日**生效。
 2. 在本 SOP 生效前已发布且与本 SOP 内容不一致的内部规定，如未另行说明，自本 SOP 生效之日起自动废止或以最新公告为准。
