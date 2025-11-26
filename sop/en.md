@@ -4,9 +4,10 @@
 
 **Revision History**
 
-| Version | Date     | Author / Translator                        |
-| ------- | -------- | ------------------------------------------ |
-| 1.0     | Nov 2025 | Lihan Bao / 1435267 / Xinrui Wan / 1897662 |
+| Version | Date     | Author / Translator  | change                       |
+| ------- | -------- | -------------------- | ---------------------------- |
+| 1.0     | Nov 2025 | Lihan Bao / 1435267  | First version                |
+| 1.1     | Nov 2025 | Xinrui Wan / 1897662 | Add Art.18.2: Callsign rules |
 
 ------
 
@@ -427,9 +428,12 @@ An LOA takes precedence over this SOP but **may not violate higher-level regulat
 ## **Article 18 — Radio and Communication Rules**
 
 1. Members shall use correct callsigns, frequencies, and radiotelephony formats.
-2. Unrelated conversations on frequency are strictly prohibited to avoid obstructing communications of others.
-3. If a member cannot understand or execute an ATC instruction, they shall proactively state the situation and request simpler or more suitable instructions.
-4. In case of operational mistakes or connection issues, members shall inform ATC or others truthfully and cooperate in making adjustments.
+2. vPLAAF callsigns follow a fixed format:
+   - **Combat units** (fighters, helicopters, special-mission aircraft, etc.) use a **five-digit tactical number** based on the numbering system referenced in *[Wikipedia](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E8%A7%A3%E6%94%BE%E5%86%9B%E7%A9%BA%E5%86%9B%E4%B8%8E%E6%B5%B7%E5%86%9B%E8%88%AA%E7%A9%BA%E5%85%B5%E7%BC%96%E5%88%B6%E5%BA%8F%E5%88%97)* (for example: J-10A operating at ZSLQ Luqiao Airport using callsign 80341). These units **may not leave mainland Chinese airspace** unless authorized or covered by a signed LOA.
+   - **Transport units** (passenger aircraft, cargo aircraft, business jets, etc.) use the prefix **CKJ**, with the Chinese callsign “军航” and the English callsign **“China Air Force”**. **These units may conduct domestic or international transport missions.**
+3. Unrelated conversations on frequency are strictly prohibited to avoid obstructing communications of others.
+4. If a member cannot understand or execute an ATC instruction, they shall proactively state the situation and request simpler or more suitable instructions.
+5. In case of operational mistakes or connection issues, members shall inform ATC or others truthfully and cooperate in making adjustments.
 
 ------
 
