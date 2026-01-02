@@ -6,10 +6,11 @@
 **Revision History**
 
 | Version | Date     | Author / Translator  | change                       |
-|---------|----------|----------------------|------------------------------|
+| ------- | -------- | -------------------- | ---------------------------- |
 | 1.0     | Nov 2025 | Lihan Bao / 1435267  | First version                |
 | 1.1     | Nov 2025 | Xinrui Wan / 1897662 | Add Art.18.2: Callsign rules |
-| 1.2     | Nov 2025 | Haoyu Wu / 1621162   | Revised entry requirements   | 
+| 1.2     | Nov 2025 | Haoyu Wu / 1621162   | Revised entry requirements   |
+| 1.3     | Jan 2026 | Xinrui Wan / 1897662 | Revised training content     |
 
 ------
 
@@ -578,21 +579,53 @@ Flight records may be used for:
 ### **1. VFR Basics (Minimum 1 hour)**
 
 **Training Objective**
-Enable trainees to become familiar with the basic handling characteristics of their aircraft type under good weather
-conditions and the fundamental procedures in the VATSIM environment, such that they can safely complete a standard
-flight with instructor assistance.
+
+Upon completion of this stage, the trainee shall be able to:
+
+1. Understand the primary factors affecting aircraft climb, descent, and energy management;
+2. Establish and maintain a stable traffic circuit under visual flight conditions in accordance with standard procedures;
+3. Correctly execute the operational processes for takeoff, initial climb, straight and level flight, descent, approach, and go-around;
+4. Select and maintain different airspeeds as required while flying the circuit, with appropriate attitude control and trim;
+5. Conduct correct radiotelephony or CTAF communications, both with ATC present and in non-controlled environments.
 
 **Main Content**
 
-1. Ground handling, taxiing, turning, entering and exiting taxiways
-2. Basic maneuvers: takeoff, climb, cruise, descent, approach, and landing
-3. Circuit patterns, touch-and-go, and go-arounds
-4. Basic ATC radiotelephony procedures (clearance, runway operations, takeoff, approach, landing, etc.)
-5. Basic flight safety awareness, including principles of rejected takeoff and go-around
+1. **Ground Operations and Takeoff**
+   - Proper use of pre-takeoff checklists;
+   - Standard takeoff procedures and initial climb;
+   - Basic crosswind takeoff correction techniques (if applicable).
+2. **Traffic Circuit (Circuits)**
+   - Standard circuit altitude (normally 1,000 ft AGL, subject to local aerodrome procedures);
+   - Establishment and maintenance of upwind, crosswind, downwind, base, and final legs;
+   - Attitude, power, and trim management during climb and descent within the circuit;
+   - Climbing and descending at different airspeeds;
+   - Flapless or reduced-flap circuits (if applicable to the aircraft type).
+3. **Approach, Go-Around, and Abnormal Situations**
+   - Establishment of a stable approach;
+   - Execution of standard go-around procedures;
+   - Simulated low-altitude go-around or rejected unstable approach;
+   - Basic awareness of noise abatement and ground track management.
+4. **Communications and Procedures**
+   - Compliance with ATC instructions when operating at controlled aerodromes;
+   - Standard CTAF communication procedures when no ATC service is available;
+   - Correct understanding and execution of instructions related to takeoff, approach, and circuit operations.
 
 **Stage Requirement**
-The trainee shall complete *no less than 1 hour* of VFR basic flight under instructor supervision and meet the minimum
-handling and procedural standards recognized by the instructor before proceeding to the next stage.
+The trainee shall complete no less than **1 hour** of VFR basic flight under instructor supervision and meet the minimum handling and procedural standards recognized by the instructor before progressing to the next stage.
+
+**Stage Assessment Criteria**
+
+Under instructor supervision, the trainee shall meet the following minimum standards:
+
+- Circuit altitude maintained within **±100 ft**;
+- Airspeed maintained within **±10 KIAS** of the target value;
+- Heading maintained within **±5°**;
+- Smooth attitude control with no excessive or abrupt control inputs;
+- Ability to return to stable straight and level flight after climbs and descents;
+- Correct use of trim to avoid sustained control forces;
+- Independent and safe completion of at least **three full VFR circuits**.
+
+
 
 ------
 
