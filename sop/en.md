@@ -632,66 +632,165 @@ Under instructor supervision, the trainee shall meet the following minimum stand
 ### **2. VFR Navigation and Night Flight (Minimum 2 hours)**
 
 **Training Objective**
-Enable trainees to master short-range navigation, route flying, and basic night VFR operations, possessing the
-foundational navigation ability required to independently complete simple tasks.
+
+Upon completion of this stage, the trainee shall be able to:
+
+1. Plan, execute, and safely return from a short-range route flight under visual flight conditions;
+2. Understand and correctly use basic navigation methods to maintain track and determine position;
+3. Maintain effective control of altitude, heading, airspeed, and overall situational awareness during both daytime and nighttime operations;
+4. Demonstrate basic awareness of terrain, obstacles, and traffic avoidance during VFR operations;
+5. Correctly conduct required communications and procedures, both with ATC services available and in non-controlled environments.
 
 **Main Content**
 
-1. Use of basic navigation equipment: VOR / NDB / DME / GPS
-2. Route planning, heading/altitude/fuel calculations, and basic flight plan filing
-3. Navigation via landmarks, navaids, and tracks
-4. Terrain and traffic avoidance principles under VFR
-5. Daytime and nighttime VFR routing and approaches
-6. Simulated stall and recovery and other basic abnormal procedures (under instructor supervision)
+1. **Pre-flight Preparation and Route Planning**
+   - Basic VFR route planning, including selection of departure and destination aerodromes and consideration of alternates;
+   - Basic calculations of heading, distance, time, and fuel;
+   - Proper completion and submission of a flight plan.
+2. **Visual Navigation Flight**
+   - Navigation using landmarks, tracks, and visual references;
+   - Use of basic navigation equipment (e.g. VOR / DME / GPS, subject to aircraft type and simulation capability);
+   - Maintenance of altitude, heading, and airspeed during en-route flight;
+   - Recognition and correction of track deviations.
+3. **Situational Awareness in VFR Flight**
+   - Principles of terrain and obstacle avoidance;
+   - Identification of airspace boundaries and restricted areas;
+   - Traffic scanning and avoidance (“see and avoid”).
+4. **Night Flight Fundamentals**
+   - Characteristics of night vision and risks of spatial disorientation;
+   - Considerations for night takeoff, climb, approach, and landing;
+   - Identification and use of aerodrome lighting, runway lighting, and visual approach aids;
+   - Limitations and risk awareness associated with night VFR navigation.
+5. **Communications and Procedures**
+   - ATC communication procedures during route flight;
+   - Standard position reporting and communications when no ATC service is available;
+   - Correct understanding and execution of instructions related to altitude, heading, and route clearance.
 
 **Stage Requirement**
 The trainee must complete *no less than 2 hours* of navigation training (including day and night tasks) and be capable
 of independently completing a simple route and safely returning to base with general guidance from the instructor.
+
+**Stage Assessment Criteria**
+
+Under instructor supervision, the trainee shall meet the following minimum standards:
+
+- Correctly identify and use at least one basic navigation aid or method (e.g. VOR / DME / GPS) for track keeping and position confirmation;
+- Correctly identify and tune the assigned VOR / DME navigation aid, and demonstrate understanding of its radial and distance information;
+- Establish and maintain a specified VOR radial or VOR–DME arc, with deviations kept within a controllable range and timely corrections applied;
+- Maintain a reasonable track using visual references and/or basic navigation aids;
+- Maintain adequate situational awareness and track judgment through the combined use of navigation aid information and visual references;
+- Demonstrate stable aircraft control during night flight, with no significant spatial disorientation;
+- Safely and independently complete at least **one full VFR route flight**, including takeoff and landing.
 
 ------
 
 ### **3. IFR Procedures and Instrument Flight Training (Minimum 3 hours)**
 
 **Training Objective**
-Enable trainees to operate under IMC / IFR conditions, mastering basic instrument flying techniques and standard
-procedures, and complete routing and approach tasks within controlled airspace in accordance with ATC instructions.
+
+Upon completion of this stage, the trainee shall be able to:
+
+1. Safely control aircraft attitude and flight path by sole reference to instruments under instrument meteorological conditions;
+2. Understand and correctly execute standard instrument flight procedures, including departure, arrival, en-route, approach, and missed approach procedures;
+3. Correctly use common instrument approach and navigation methods to conduct controlled flight;
+4. Accurately understand and comply with ATC instructions related to altitude, heading, speed, and routing;
+5. Maintain basic situational awareness and procedural consistency under high workload conditions.
 
 **Main Content**
 
-1. Basic instrument use
-2. Execution of SIDs/STARs and adherence to altitude and speed restrictions
-3. Precision and non-precision approaches (ILS / LOC / VOR / NDB / RNAV)
-4. Holding pattern establishment, entry, and maintenance
-5. Execution of standard missed approach procedures
-6. At least one full IFR route flight, including departure, enroute, approach, and landing
-7. Night IFR takeoff/landing and lighting operations
+1. **Instrument Flight Fundamentals**
+   - Identification and use of basic flight instruments;
+   - Instrument-based control of attitude, power, and aircraft performance;
+   - Instrument climbs, level flight, and descents;
+   - Standard turns, roll-out, and heading control.
+2. **Standard Instrument Procedures (SID / STAR)**
+   - Understanding and execution of Standard Instrument Departure (SID) procedures;
+   - Understanding and execution of Standard Terminal Arrival Route (STAR) procedures;
+   - Identification and compliance with altitude and speed restrictions;
+   - Recognition and correction of procedural deviations.
+3. **En-route Flight and Navigation**
+   - En-route flight using VOR / DME / RNAV navigation;
+   - Altitude management and track keeping during en-route segments;
+   - Execution of ATC instructions en-route (radar vectors, direct-to, re-routing, offsets, etc.);
+   - En-route situational awareness and workload management.
+4. **Instrument Approaches**
+   - Fundamental concepts of precision and non-precision approaches;
+   - Execution of ILS / LOC / VOR / NDB / RNAV (LNAV) approach procedures;
+   - Assessment and continuous monitoring of approach stability;
+   - Understanding and compliance with minimum descent altitude (MDA) and decision altitude (DA).
+5. **Holding and Missed Approaches**
+   - Establishment, entry, and maintenance of holding patterns;
+   - Understanding and execution of standard missed approach procedures;
+   - Rejection of unstable approaches and diversion procedures;
+   - Post-missed-approach procedures and coordination with ATC.
+6. **Night IFR and Complex Scenarios**
+   - Considerations for night IFR departures and approaches;
+   - Execution of procedures under multiple or complex ATC instructions;
+   - Basic handling of simulated equipment or system abnormalities under instructor supervision.
 
 **Stage Requirement**
-The trainee must complete *no less than 3 hours* of IFR training online and demonstrate correct understanding and
-execution of basic procedures and ATC instructions in at least one complete IFR route. Advancement to the next stage
+The trainee must complete *no less than 3 hours* of IFR training online and demonstrate correct understanding and execution of basic procedures and ATC instructions in at least one complete IFR route. Advancement to the next stage
 requires instructor approval.
+
+**Stage Assessment Criteria**
+
+Under instructor supervision, the trainee shall meet the following minimum standards:
+
+- Correctly understand and execute assigned SID, STAR, en-route, and approach procedures, complying with applicable altitude, speed, and track restrictions;
+- Use VOR / DME / RNAV and other instrument navigation aids to maintain the assigned track, with timely and appropriate corrections;
+- Independently complete at least one instrument approach (ILS / LOC / VOR / RNAV), correctly understanding and complying with MDA / DA requirements;
+- Immediately and correctly execute standard missed approach procedures when required, including proper procedural sequencing;
+- Establish and maintain holding patterns, demonstrating correct entry methods and stable track keeping;
+- Accurately understand, read back, and comply with ATC instructions regarding altitude, heading, speed, and procedures;
+- Maintain appropriate procedural prioritization and situational awareness under higher workload conditions, without significant procedural errors;
+- Safely and completely conduct at least **one full IFR route flight** (departure – en-route – approach – landing or missed approach).
 
 ------
 
 ### **4. Special Operations & Aircraft-Specific Training**
 
 **Training Objective**
-Enable pilots to master core military-type skills required for vPLAAF as a virtual special operations
-organization—including low-level flight, formation, air combat maneuvers, aerial refueling, etc.—while ensuring network
-safety and respecting other users’ experience.
+
+Upon completion of this stage, the pilot shall be able to:
+
+1. Understand and execute the basic tactics and procedures associated with vPLAAF virtual special operations;
+2. Demonstrate proficiency in aircraft-specific operating procedures and performance characteristics;
+3. Safely conduct low-level flight, formation flight, and designated mission tasks in compliance with VATSIM and VSOP regulations;
+4. Maintain procedural consistency, proper communications, and situational awareness in multi-aircraft or complex mission environments;
+5. Possess the fundamental capability to participate in official vPLAAF missions or joint exercises.
 
 **Main Content**
-(Items selected depending on aircraft type and mission requirements)
 
-1. Aircraft-specific operation and abnormal procedures (e.g., engine-out and forced-landing simulations)
-2. Low-altitude flight and terrain-following (within VSOA and ATC-permitted airspace/altitude)
-3. Formation flight: formation keeping, join-up, break, and maneuvering
-4. Aerial refueling: pre-contact, contact, station-keeping, and disconnect (if simulation equipment supports)
-5. Airdrop, airlift, and supply missions
-6. Basic air combat maneuvers: energy management, offensive/defensive turns (in permitted airspace and without
-   interfering with third-party traffic)
-7. Procedures for Special Use Airspace (SUA), MOA, Military Training Routes, etc., including simulated usage
-8. Risk assessment and mission briefing/debriefing procedures
+*(Specific items may be selected or combined depending on aircraft type and mission profile)*
+
+1. **Aircraft-Specific Operations**
+   - Aircraft start-up, shutdown, and special system operating procedures;
+   - Understanding of aircraft performance limitations, operating envelope, and energy management;
+   - Simulated handling of common abnormalities and emergency situations (e.g. engine anomalies, system failures).
+2. **Low-Level Flight and Track Management**
+   - Principles of altitude, speed, and risk control in low-level flight;
+   - Terrain-following and terrain-avoidance awareness;
+   - Planning and maintaining low-level tracks within authorized airspace;
+   - Coordination with ATC or mission command during low-level operations.
+3. **Formation Flight**
+   - Basic formation configurations (e.g. two-ship, three-ship, or four-ship);
+   - Formation join-up and break procedures;
+   - Position keeping, relative motion control, and safe separation within the formation;
+   - Communication roles and task allocation during formation flight.
+4. **Special Mission Tasks**
+   - Airlift, airdrop, and resupply mission procedures;
+   - Escort, ferry, and formation transit missions;
+   - Track keeping and conflict avoidance within mission airspace;
+   - Coordination with other virtual organizations during missions (if applicable).
+5. **Advanced Subjects (as Applicable)**
+   - Aerial refueling procedures;
+   - Basic air combat maneuvers (energy management, offensive/defensive maneuvers, limited to authorized airspace);
+   - Understanding and simulated use of Special Use Airspace (SUA), MOAs, and Military Training Routes.
+6. **Mission Workflow and Risk Management**
+   - Participation in and understanding of mission briefings;
+   - Adherence to procedures and response to changes during mission execution;
+   - Post-mission debriefing and experience review;
+   - Network safety, respect for other users’ experience, and compliance awareness.
 
 **Stage Requirement**
 
@@ -700,6 +799,18 @@ safety and respecting other users’ experience.
    verifying proficiency in mission planning, procedure execution, communication, and flight safety
 3. Only after passing this stage may pilots be deemed qualified to participate in official vPLAAF missions or joint
    exercises
+
+**Stage Assessment Criteria**
+
+Under instructor or evaluator supervision, the pilot shall meet the following minimum standards:
+
+- Correctly operate the assigned aircraft in accordance with prescribed procedures, demonstrating understanding of its performance and limitations;
+- Safely conduct low-level or special track operations within authorized airspace and conditions;
+- Maintain safe separation and stable positioning during formation or multi-aircraft operations;
+- Execute assigned mission procedures in accordance with the mission brief, maintaining proper communications;
+- Maintain basic situational awareness and risk management throughout the mission;
+- Complete post-mission debriefing and provide a reasonable self-assessment;
+- Comply at all times with VATSIM regulations, VSOP requirements, and vPLAAF internal SOPs.
 
 ------
 
