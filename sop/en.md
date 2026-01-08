@@ -1,31 +1,26 @@
 # **vPLAAF Standard Operating Procedures (SOP)**
 
-> This document is the translated English version of the “vPLAAF Standard Operating Procedures.” In case of any
-> inconsistency, the original Chinese version shall prevail.
+> This document is the translated English version of the “vPLAAF Standard Operating Procedures.” In case of any inconsistency, the original Chinese version shall prevail.
 
 **Revision History**
 
-| Version | Date     | Author / Translator  | change                       |
-| ------- | -------- | -------------------- | ---------------------------- |
-| 1.0     | Nov 2025 | Lihan Bao / 1435267  | First version                |
-| 1.1     | Nov 2025 | Xinrui Wan / 1897662 | Add Art.18.2: Callsign rules |
-| 1.2     | Nov 2025 | Haoyu Wu / 1621162   | Revised entry requirements   |
-| 1.3     | Jan 2026 | Xinrui Wan / 1897662 | Revised training content     |
+| Version | Date     | Author / Translator  | change                                    |
+| ------- | -------- | -------------------- | ----------------------------------------- |
+| 1.0     | Nov 2025 | Lihan Bao / 1435267  | First version                             |
+| 1.1     | Nov 2025 | Xinrui Wan / 1897662 | Add Art.18.2: Callsign rules              |
+| 1.2     | Nov 2025 | Haoyu Wu / 1621162   | Revised entry requirements                |
+| 1.3     | Jan 2026 | Xinrui Wan / 1897662 | Revised training content                  |
+| 1.4     | Jan 2026 | Xinrui Wan / 1897662 | Separate training content to new document |
 
 ------
 
 ## **Preface**
 
-This Standard Operating Procedures (hereinafter “this SOP”) is established to regulate the activities of the vPLAAF on
-the VATSIM network, including organizational management, member conduct, basic requirements of flights and missions, and
-to provide a unified operational basis for all members.
+This Standard Operating Procedures (hereinafter “this SOP”) is established to regulate the activities of the vPLAAF on the VATSIM network, including organizational management, member conduct, basic requirements of flights and missions, and to provide a unified operational basis for all members.
 
-vPLAAF is a completely fictional virtual flight organization for flight simulation and online entertainment purposes
-only.
-vPLAAF has **no affiliation, subordination, cooperation or authorization** of any kind with the real-world People’s
-Liberation Army Air Force, any government authority, military unit, or commercial entity.
-The content of this SOP shall not be used for any real-world aviation or military activity, nor as reference for
-real-world flight training or combat.
+vPLAAF is a completely fictional virtual flight organization for flight simulation and online entertainment purposes only.
+vPLAAF has **no affiliation, subordination, cooperation or authorization** of any kind with the real-world People’s Liberation Army Air Force, any government authority, military unit, or commercial entity.
+The content of this SOP shall not be used for any real-world aviation or military activity, nor as reference for real-world flight training or combat.
 
 This SOP applies to:
 
@@ -40,8 +35,7 @@ This SOP shall be used together with:
 - **VATSIM Special Operations Policy**
 - **Other vPLAAF supplementary SOPs, training syllabi, mission briefs, LOAs, and internal documents**
 
-In VATSIM network operations, if this SOP conflicts with VATSIM official documents, the VATSIM documents shall take
-highest priority.
+In VATSIM network operations, if this SOP conflicts with VATSIM official documents, the VATSIM documents shall take highest priority.
 
 ------
 
@@ -59,8 +53,7 @@ highest priority.
 
 1. This SOP is formulated, revised, and interpreted by the vPLAAF Headquarters.
 2. This SOP shall be implemented upon approval by the vPLAAF Commander.
-3. If this SOP is inconsistent with any of the following documents, the VATSIM official documents shall prevail, and
-   revisions to this SOP shall be made accordingly:
+3. If this SOP is inconsistent with any of the following documents, the VATSIM official documents shall prevail, and revisions to this SOP shall be made accordingly:
     - VATSIM Code of Conduct
     - VATSIM Special Operations Policy
 4. If any ambiguity exists, the vPLAAF Headquarters shall make the final interpretation.
@@ -101,8 +94,7 @@ This SOP serves as the top-level document; specific technical items are suppleme
 
 ## **Article 5 Organizational Positioning**
 
-1. vPLAAF is a virtual military aviation organization on the VATSIM network, featuring missions and training that
-   emulate the style of the real-world PLAAF.
+1. vPLAAF is a virtual military aviation organization on the VATSIM network, featuring missions and training that emulate the style of the real-world PLAAF.
 2. Basic principles:
     - Adherence to VATSIM rules and policies;
     - Respect aviation safety principles without any association with real-world military or political activity;
@@ -119,7 +111,7 @@ vPLAAF conducts virtual mission types including but not limited to:
 2. CAS / ground attack training simulation (without real-world targets)
 3. Airlift, airdrop, supply missions
 4. AWACS, reconnaissance, C2, escort, aerial refueling, and other special missions
-5. Basic and advanced flight training (see Article 26)
+5. Basic and advanced flight training (see Training Syllabus)
 
 ------
 
@@ -162,8 +154,7 @@ Units may be adjusted depending on organizational size. Headquarters will publis
     - Daily communication and announcements
     - Mission briefing and debriefing
     - Technical discussions and feedback
-3. All official SOPs, training syllabi, and mission briefs shall be stored in a unified and accessible location with
-   clear version control.
+3. All official SOPs, training syllabi, and mission briefs shall be stored in a unified and accessible location with clear version control.
 
 ------
 
@@ -215,9 +206,7 @@ Applicants must meet the following requirements:
 
 ## **Article 12 — Activity Management**
 
-To ensure vPLAAF’s sustained operational capability as a VSOA (Virtual Special Operations Association) member, its audit
-compliance, and the training quality of its members, the following activity management provisions are established in
-accordance with the relevant requirements of the **VATSIM Special Operations Policy v4.0**.
+To ensure vPLAAF’s sustained operational capability as a VSOA (Virtual Special Operations Association) member, its audit compliance, and the training quality of its members, the following activity management provisions are established in accordance with the relevant requirements of the **VATSIM Special Operations Policy v4.0**.
 
 ------
 
@@ -240,8 +229,7 @@ To satisfy VSOP compliance, vPLAAF shall maintain:
 
 > **A minimum of 10 Active Pilots.**
 
-If the number of active members falls below this standard, the organization will be considered at compliance risk and
-must immediately implement recruitment and activity-boosting measures.
+If the number of active members falls below this standard, the organization will be considered at compliance risk and must immediately implement recruitment and activity-boosting measures.
 
 ------
 
@@ -251,8 +239,7 @@ According to VSOP requirements:
 
 > **vPLAAF must complete at least 10 online flights using vPLAAF callsigns within any rolling 60-day period.**
 
-This is an organizational metric; it is not required that a specific member completes it, but must be collectively
-achieved by vPLAAF members.
+This is an organizational metric; it is not required that a specific member completes it, but must be collectively achieved by vPLAAF members.
 
 If the requirement is not met:
 
@@ -290,8 +277,7 @@ To comply with audit requirements, the organization must ensure:
 - All flight records are complete and verifiable.
 - The list of all Active Pilots must be publicly available (displaying at least CID).
 
-Any member refusing to comply with flight record submission or information updates may be temporarily barred from
-missions.
+Any member refusing to comply with flight record submission or information updates may be temporarily barred from missions.
 
 ------
 
@@ -338,11 +324,8 @@ Exemptions may last up to **180 days**.
     1. VATSIM Code of Conduct;
     2. VATSIM Special Operations Policy;
     3. Relevant requirements of the VATSIM Special Operations Department (VSOD).
-2. Headquarters is responsible for ensuring that internal regulations, event planning, and member conduct all remain
-   consistent with the above documents.
-3. Within reasonable limits, vPLAAF encourages members to engage in innovation and spontaneous activities that do not
-   violate regulations; however, any matter conducted in the name of the organization must be approved by the
-   appropriate authority level.
+2. Headquarters is responsible for ensuring that internal regulations, event planning, and member conduct all remain consistent with the above documents.
+3. Within reasonable limits, vPLAAF encourages members to engage in innovation and spontaneous activities that do not violate regulations; however, any matter conducted in the name of the organization must be approved by the appropriate authority level.
 
 ------
 
@@ -441,13 +424,10 @@ An LOA takes precedence over this SOP but **may not violate higher-level regulat
 
 ## **Article 17 — Basic Conduct Requirements**
 
-1. All members on the VATSIM network shall maintain a professional, courteous, and respectful attitude, complying with
-   the VATSIM Code of Conduct.
-2. Members shall not request any unreasonable priority or privilege from ATC or other pilots on the basis of being a
-   “military aircraft.”
+1. All members on the VATSIM network shall maintain a professional, courteous, and respectful attitude, complying with the VATSIM Code of Conduct.
+2. Members shall not request any unreasonable priority or privilege from ATC or other pilots on the basis of being a “military aircraft.”
 3. Members shall not demean, mock, or maliciously interfere with other VATSIM users, including pilots and controllers.
-4. Any behavior exhibited in public channels (including radio frequencies, text channels, and social platforms) affects
-   the public image of vPLAAF; members shall consciously uphold the organization’s reputation.
+4. Any behavior exhibited in public channels (including radio frequencies, text channels, and social platforms) affects the public image of vPLAAF; members shall consciously uphold the organization’s reputation.
 
 ------
 
@@ -455,19 +435,11 @@ An LOA takes precedence over this SOP but **may not violate higher-level regulat
 
 1. Members shall use correct callsigns, frequencies, and radiotelephony formats.
 2. vPLAAF callsigns follow a fixed format:
-    - **Combat units** (fighters, helicopters, special-mission aircraft, etc.) use a **five-digit tactical number**
-      based on the numbering system referenced in
-      *[Wikipedia](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E8%A7%A3%E6%94%BE%E5%86%9B%E7%A9%BA%E5%86%9B%E4%B8%8E%E6%B5%B7%E5%86%9B%E8%88%AA%E7%A9%BA%E5%85%B5%E7%BC%96%E5%88%B6%E5%BA%8F%E5%88%97)* (
-      for example: J-10A operating at ZSLQ Luqiao Airport using callsign 80341). These units **may not leave mainland
-      Chinese airspace** unless authorized or covered by a signed LOA.
-    - **Transport units** (passenger aircraft, cargo aircraft, business jets, etc.) use the prefix **CKJ**, with the
-      Chinese callsign “军航” and the English callsign **“China Air Force”**. **These units may conduct domestic or
-      international transport missions.**
+    - **Combat units** (fighters, helicopters, special-mission aircraft, etc.) use a **five-digit tactical number** based on the numbering system referenced in *[Wikipedia](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E8%A7%A3%E6%94%BE%E5%86%9B%E7%A9%BA%E5%86%9B%E4%B8%8E%E6%B5%B7%E5%86%9B%E8%88%AA%E7%A9%BA%E5%85%B5%E7%BC%96%E5%88%B6%E5%BA%8F%E5%88%97)* ( for example: J-10A operating at ZSLQ Luqiao Airport using callsign 80341). These units **may not leave mainland Chinese airspace** unless authorized or covered by a signed LOA.
+    - **Transport units** (passenger aircraft, cargo aircraft, business jets, etc.) use the prefix **CKJ**, with the Chinese callsign “军航” and the English callsign **“China Air Force”**. **These units may conduct domestic or international transport missions.**
 3. Unrelated conversations on frequency are strictly prohibited to avoid obstructing communications of others.
-4. If a member cannot understand or execute an ATC instruction, they shall proactively state the situation and request
-   simpler or more suitable instructions.
-5. In case of operational mistakes or connection issues, members shall inform ATC or others truthfully and cooperate in
-   making adjustments.
+4. If a member cannot understand or execute an ATC instruction, they shall proactively state the situation and request simpler or more suitable instructions.
+5. In case of operational mistakes or connection issues, members shall inform ATC or others truthfully and cooperate in making adjustments.
 
 ------
 
@@ -477,25 +449,21 @@ An LOA takes precedence over this SOP but **may not violate higher-level regulat
     1. Insulting, personal attacks, or malicious provocation are prohibited;
     2. Discussions involving real-world politics, race, religion, or other highly sensitive or controversial topics are
        prohibited.
-2. When members mention vPLAAF externally, they shall not make improper statements or any remarks inconsistent with the
-   spirit of the organization.
+2. When members mention vPLAAF externally, they shall not make improper statements or any remarks inconsistent with the spirit of the organization.
 
 ------
 
 ## **Article 20 — Violation Handling**
 
-1. If a member violates this SOP, VATSIM regulations, or other relevant rules, Headquarters may impose one or more of
-   the following measures depending on severity:
+1. If a member violates this SOP, VATSIM regulations, or other relevant rules, Headquarters may impose one or more of the following measures depending on severity:
     1. Verbal or written warning;
     2. Requirement to undergo additional training;
     3. Temporary suspension from some or all vPLAAF activities;
     4. Removal from position;
     5. Revocation of membership;
     6. Reporting to relevant VATSIM departments for violations involving VATSIM rules.
-2. The reasons for disciplinary action shall be explained to the member within reasonable limits, and records shall be
-   kept.
-3. If the member disagrees with the disciplinary decision, they may submit a written appeal within the specified
-   timeframe. The appeal will be reviewed by Headquarters or a designated review group, whose decision shall be final.
+2. The reasons for disciplinary action shall be explained to the member within reasonable limits, and records shall be kept.
+3. If the member disagrees with the disciplinary decision, they may submit a written appeal within the specified timeframe. The appeal will be reviewed by Headquarters or a designated review group, whose decision shall be final.
 
 ------
 
@@ -518,22 +486,20 @@ An LOA takes precedence over this SOP but **may not violate higher-level regulat
 
 ## **Article 22 — Flight Plan and Callsigns**
 
-1. All flights conducted on VATSIM under the name of vPLAAF must submit a Flight Plan prior to connection, with the
-   following requirements:
-
+1. All flights conducted on VATSIM under the name of vPLAAF must submit a Flight Plan prior to connection, with the following requirements:
+   
     1. Correct ICAO aircraft type code.
-
+      
     2. Use of vPLAAF-standardized callsign format.
-
+      
     3. Indication of vPLAAF identity and mission type in the Remarks (RMK/) section, for example:
-
+      
        ```
        RMK/VSO - vPLAAF - FORMATION TRAINING – WWW.VPLAAF.ORG
        RMK/VSO - vPLAAF – INTERCEPT TRAINING – WWW.VPLAAF.ORG
        ```
-
-2. Callsign design shall remain clear and consistent without conflicting with other organizations.
-   Specific formats shall be defined in mission briefs and relevant LOAs.
+   
+2. Callsign design shall remain clear and consistent without conflicting with other organizations. Specific formats shall be defined in mission briefs and relevant LOAs.
 
 ------
 
@@ -564,280 +530,15 @@ Flight records may be used for:
 
 ------
 
-# **Chapter 7 — Training and Qualifications**
+# **Chapter 7 — Supplementary Provisions**
 
-## **Article 25 — Objectives**
+## **Article 25 — Matters Not Covered**
 
-- Ensure members can fly safely and in accordance with regulations
-- Ensure mastery of required skills
-- Ensure proficiency in executing the SOP
+For circumstances not explicitly provided for in this SOP, the vPLAAF Headquarters shall handle them in accordance with relevant VATSIM rules, the principles and objectives of this organization, and principles of fairness and reasonableness. Where necessary, supplementary provisions or amendments may be made.
 
 ------
 
-## **Article 26 — Training Content**
-
-### **1. VFR Basics (Minimum 1 hour)**
-
-**Training Objective**
-
-Upon completion of this stage, the trainee shall be able to:
-
-1. Understand the primary factors affecting aircraft climb, descent, and energy management;
-2. Establish and maintain a stable traffic circuit under visual flight conditions in accordance with standard procedures;
-3. Correctly execute the operational processes for takeoff, initial climb, straight and level flight, descent, approach, and go-around;
-4. Select and maintain different airspeeds as required while flying the circuit, with appropriate attitude control and trim;
-5. Conduct correct radiotelephony or CTAF communications, both with ATC present and in non-controlled environments.
-
-**Main Content**
-
-1. **Ground Operations and Takeoff**
-   - Proper use of pre-takeoff checklists;
-   - Standard takeoff procedures and initial climb;
-   - Basic crosswind takeoff correction techniques (if applicable).
-2. **Traffic Circuit (Circuits)**
-   - Standard circuit altitude (normally 1,000 ft AGL, subject to local aerodrome procedures);
-   - Establishment and maintenance of upwind, crosswind, downwind, base, and final legs;
-   - Attitude, power, and trim management during climb and descent within the circuit;
-   - Climbing and descending at different airspeeds;
-   - Flapless or reduced-flap circuits (if applicable to the aircraft type).
-3. **Approach, Go-Around, and Abnormal Situations**
-   - Establishment of a stable approach;
-   - Execution of standard go-around procedures;
-   - Simulated low-altitude go-around or rejected unstable approach;
-   - Basic awareness of noise abatement and ground track management.
-4. **Communications and Procedures**
-   - Compliance with ATC instructions when operating at controlled aerodromes;
-   - Standard CTAF communication procedures when no ATC service is available;
-   - Correct understanding and execution of instructions related to takeoff, approach, and circuit operations.
-
-**Stage Requirement**
-The trainee shall complete no less than **1 hour** of VFR basic flight under instructor supervision and meet the minimum handling and procedural standards recognized by the instructor before progressing to the next stage.
-
-**Stage Assessment Criteria**
-
-Under instructor supervision, the trainee shall meet the following minimum standards:
-
-- Circuit altitude maintained within **±100 ft**;
-- Airspeed maintained within **±10 KIAS** of the target value;
-- Heading maintained within **±5°**;
-- Smooth attitude control with no excessive or abrupt control inputs;
-- Ability to return to stable straight and level flight after climbs and descents;
-- Correct use of trim to avoid sustained control forces;
-- Independent and safe completion of at least **three full VFR circuits**.
-
-
-
-------
-
-### **2. VFR Navigation and Night Flight (Minimum 2 hours)**
-
-**Training Objective**
-
-Upon completion of this stage, the trainee shall be able to:
-
-1. Plan, execute, and safely return from a short-range route flight under visual flight conditions;
-2. Understand and correctly use basic navigation methods to maintain track and determine position;
-3. Maintain effective control of altitude, heading, airspeed, and overall situational awareness during both daytime and nighttime operations;
-4. Demonstrate basic awareness of terrain, obstacles, and traffic avoidance during VFR operations;
-5. Correctly conduct required communications and procedures, both with ATC services available and in non-controlled environments.
-
-**Main Content**
-
-1. **Pre-flight Preparation and Route Planning**
-   - Basic VFR route planning, including selection of departure and destination aerodromes and consideration of alternates;
-   - Basic calculations of heading, distance, time, and fuel;
-   - Proper completion and submission of a flight plan.
-2. **Visual Navigation Flight**
-   - Navigation using landmarks, tracks, and visual references;
-   - Use of basic navigation equipment (e.g. VOR / DME / GPS, subject to aircraft type and simulation capability);
-   - Maintenance of altitude, heading, and airspeed during en-route flight;
-   - Recognition and correction of track deviations.
-3. **Situational Awareness in VFR Flight**
-   - Principles of terrain and obstacle avoidance;
-   - Identification of airspace boundaries and restricted areas;
-   - Traffic scanning and avoidance (“see and avoid”).
-4. **Night Flight Fundamentals**
-   - Characteristics of night vision and risks of spatial disorientation;
-   - Considerations for night takeoff, climb, approach, and landing;
-   - Identification and use of aerodrome lighting, runway lighting, and visual approach aids;
-   - Limitations and risk awareness associated with night VFR navigation.
-5. **Communications and Procedures**
-   - ATC communication procedures during route flight;
-   - Standard position reporting and communications when no ATC service is available;
-   - Correct understanding and execution of instructions related to altitude, heading, and route clearance.
-
-**Stage Requirement**
-The trainee must complete *no less than 2 hours* of navigation training (including day and night tasks) and be capable
-of independently completing a simple route and safely returning to base with general guidance from the instructor.
-
-**Stage Assessment Criteria**
-
-Under instructor supervision, the trainee shall meet the following minimum standards:
-
-- Correctly identify and use at least one basic navigation aid or method (e.g. VOR / DME / GPS) for track keeping and position confirmation;
-- Correctly identify and tune the assigned VOR / DME navigation aid, and demonstrate understanding of its radial and distance information;
-- Establish and maintain a specified VOR radial or VOR–DME arc, with deviations kept within a controllable range and timely corrections applied;
-- Maintain a reasonable track using visual references and/or basic navigation aids;
-- Maintain adequate situational awareness and track judgment through the combined use of navigation aid information and visual references;
-- Demonstrate stable aircraft control during night flight, with no significant spatial disorientation;
-- Safely and independently complete at least **one full VFR route flight**, including takeoff and landing.
-
-------
-
-### **3. IFR Procedures and Instrument Flight Training (Minimum 3 hours)**
-
-**Training Objective**
-
-Upon completion of this stage, the trainee shall be able to:
-
-1. Safely control aircraft attitude and flight path by sole reference to instruments under instrument meteorological conditions;
-2. Understand and correctly execute standard instrument flight procedures, including departure, arrival, en-route, approach, and missed approach procedures;
-3. Correctly use common instrument approach and navigation methods to conduct controlled flight;
-4. Accurately understand and comply with ATC instructions related to altitude, heading, speed, and routing;
-5. Maintain basic situational awareness and procedural consistency under high workload conditions.
-
-**Main Content**
-
-1. **Instrument Flight Fundamentals**
-   - Identification and use of basic flight instruments;
-   - Instrument-based control of attitude, power, and aircraft performance;
-   - Instrument climbs, level flight, and descents;
-   - Standard turns, roll-out, and heading control.
-2. **Standard Instrument Procedures (SID / STAR)**
-   - Understanding and execution of Standard Instrument Departure (SID) procedures;
-   - Understanding and execution of Standard Terminal Arrival Route (STAR) procedures;
-   - Identification and compliance with altitude and speed restrictions;
-   - Recognition and correction of procedural deviations.
-3. **En-route Flight and Navigation**
-   - En-route flight using VOR / DME / RNAV navigation;
-   - Altitude management and track keeping during en-route segments;
-   - Execution of ATC instructions en-route (radar vectors, direct-to, re-routing, offsets, etc.);
-   - En-route situational awareness and workload management.
-4. **Instrument Approaches**
-   - Fundamental concepts of precision and non-precision approaches;
-   - Execution of ILS / LOC / VOR / NDB / RNAV (LNAV) approach procedures;
-   - Assessment and continuous monitoring of approach stability;
-   - Understanding and compliance with minimum descent altitude (MDA) and decision altitude (DA).
-5. **Holding and Missed Approaches**
-   - Establishment, entry, and maintenance of holding patterns;
-   - Understanding and execution of standard missed approach procedures;
-   - Rejection of unstable approaches and diversion procedures;
-   - Post-missed-approach procedures and coordination with ATC.
-6. **Night IFR and Complex Scenarios**
-   - Considerations for night IFR departures and approaches;
-   - Execution of procedures under multiple or complex ATC instructions;
-   - Basic handling of simulated equipment or system abnormalities under instructor supervision.
-
-**Stage Requirement**
-The trainee must complete *no less than 3 hours* of IFR training online and demonstrate correct understanding and execution of basic procedures and ATC instructions in at least one complete IFR route. Advancement to the next stage
-requires instructor approval.
-
-**Stage Assessment Criteria**
-
-Under instructor supervision, the trainee shall meet the following minimum standards:
-
-- Correctly understand and execute assigned SID, STAR, en-route, and approach procedures, complying with applicable altitude, speed, and track restrictions;
-- Use VOR / DME / RNAV and other instrument navigation aids to maintain the assigned track, with timely and appropriate corrections;
-- Independently complete at least one instrument approach (ILS / LOC / VOR / RNAV), correctly understanding and complying with MDA / DA requirements;
-- Immediately and correctly execute standard missed approach procedures when required, including proper procedural sequencing;
-- Establish and maintain holding patterns, demonstrating correct entry methods and stable track keeping;
-- Accurately understand, read back, and comply with ATC instructions regarding altitude, heading, speed, and procedures;
-- Maintain appropriate procedural prioritization and situational awareness under higher workload conditions, without significant procedural errors;
-- Safely and completely conduct at least **one full IFR route flight** (departure – en-route – approach – landing or missed approach).
-
-------
-
-### **4. Special Operations & Aircraft-Specific Training**
-
-**Training Objective**
-
-Upon completion of this stage, the pilot shall be able to:
-
-1. Understand and execute the basic tactics and procedures associated with vPLAAF virtual special operations;
-2. Demonstrate proficiency in aircraft-specific operating procedures and performance characteristics;
-3. Safely conduct low-level flight, formation flight, and designated mission tasks in compliance with VATSIM and VSOP regulations;
-4. Maintain procedural consistency, proper communications, and situational awareness in multi-aircraft or complex mission environments;
-5. Possess the fundamental capability to participate in official vPLAAF missions or joint exercises.
-
-**Main Content**
-
-*(Specific items may be selected or combined depending on aircraft type and mission profile)*
-
-1. **Aircraft-Specific Operations**
-   - Aircraft start-up, shutdown, and special system operating procedures;
-   - Understanding of aircraft performance limitations, operating envelope, and energy management;
-   - Simulated handling of common abnormalities and emergency situations (e.g. engine anomalies, system failures).
-2. **Low-Level Flight and Track Management**
-   - Principles of altitude, speed, and risk control in low-level flight;
-   - Terrain-following and terrain-avoidance awareness;
-   - Planning and maintaining low-level tracks within authorized airspace;
-   - Coordination with ATC or mission command during low-level operations.
-3. **Formation Flight**
-   - Basic formation configurations (e.g. two-ship, three-ship, or four-ship);
-   - Formation join-up and break procedures;
-   - Position keeping, relative motion control, and safe separation within the formation;
-   - Communication roles and task allocation during formation flight.
-4. **Special Mission Tasks**
-   - Airlift, airdrop, and resupply mission procedures;
-   - Escort, ferry, and formation transit missions;
-   - Track keeping and conflict avoidance within mission airspace;
-   - Coordination with other virtual organizations during missions (if applicable).
-5. **Advanced Subjects (as Applicable)**
-   - Aerial refueling procedures;
-   - Basic air combat maneuvers (energy management, offensive/defensive maneuvers, limited to authorized airspace);
-   - Understanding and simulated use of Special Use Airspace (SUA), MOAs, and Military Training Routes.
-6. **Mission Workflow and Risk Management**
-   - Participation in and understanding of mission briefings;
-   - Adherence to procedures and response to changes during mission execution;
-   - Post-mission debriefing and experience review;
-   - Network safety, respect for other users’ experience, and compliance awareness.
-
-**Stage Requirement**
-
-1. Pilots shall complete *no less than 4 hours* of advanced special operations training
-2. Pilots must pass a comprehensive practical examination conducted by instructors or the Standards & Evaluation Group,
-   verifying proficiency in mission planning, procedure execution, communication, and flight safety
-3. Only after passing this stage may pilots be deemed qualified to participate in official vPLAAF missions or joint
-   exercises
-
-**Stage Assessment Criteria**
-
-Under instructor or evaluator supervision, the pilot shall meet the following minimum standards:
-
-- Correctly operate the assigned aircraft in accordance with prescribed procedures, demonstrating understanding of its performance and limitations;
-- Safely conduct low-level or special track operations within authorized airspace and conditions;
-- Maintain safe separation and stable positioning during formation or multi-aircraft operations;
-- Execute assigned mission procedures in accordance with the mission brief, maintaining proper communications;
-- Maintain basic situational awareness and risk management throughout the mission;
-- Complete post-mission debriefing and provide a reasonable self-assessment;
-- Comply at all times with VATSIM regulations, VSOP requirements, and vPLAAF internal SOPs.
-
-------
-
-## **Article 27 — Qualification Evaluation and Maintenance**
-
-1. Upon completion of each training stage, evaluation shall be conducted through written tests, simulated missions, and
-   practical assessments.
-2. After obtaining a training level or qualification, members may be required by Headquarters to undergo refresher
-   training or re-evaluation if they have not participated in the relevant type of flight for an extended period.
-3. Specific evaluation standards, assessment methods, and qualification validity periods are determined by the Training
-   Department.
-
-------
-
-# **Chapter 8 — Supplementary Provisions**
-
-## **Article 28 — Matters Not Covered**
-
-For circumstances not explicitly provided for in this SOP, the vPLAAF Headquarters shall handle them in accordance with
-relevant VATSIM rules, the principles and objectives of this organization, and principles of fairness and
-reasonableness. Where necessary, supplementary provisions or amendments may be made.
-
-------
-
-## **Article 29 — Implementation and Repeal**
+## **Article 26 — Implementation and Repeal**
 
 1. This SOP shall take effect on **20 November 2025**.
-2. Internal regulations issued prior to the effective date of this SOP that are inconsistent with this SOP shall—unless
-   otherwise specified—be automatically repealed or superseded by the latest official announcement as of the effective
-   date of this SOP.
+2. Internal regulations issued prior to the effective date of this SOP that are inconsistent with this SOP shall—unless otherwise specified—be automatically repealed or superseded by the latest official announcement as of the effective date of this SOP.
