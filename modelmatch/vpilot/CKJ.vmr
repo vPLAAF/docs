@@ -41,8 +41,8 @@
     <ModelMatchRule TypeCode="J10" ModelName="SU27 PLAAF 10321" />
     <ModelMatchRule TypeCode="J10" ModelName="DC Designs SU27 Flanker Bort 305" />
 
-    <ModelMatchRule TypeCode="L15" ModelName="Leonardo International Flight Training School" />
-    <ModelMatchRule TypeCode="L15" ModelName="Leonardo M-346 Primer only" />
+    <ModelMatchRule TypeCode="L15" ModelName="L15 PLAAF" />
+    <ModelMatchRule TypeCode="L15" ModelName="Leonardo International Flight Training School//Leonardo M-346 Primer only" />
 
 
     <ModelMatchRule TypeCode="IL76" ModelName="Ilyushin Il-76MD China Air Force" />
