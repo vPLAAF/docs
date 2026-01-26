@@ -11,4 +11,5 @@
 | Shengbo Yang      | 1676022    | Member / 成员                                        | √                 | √                 | √                   |
 | Hongye Rudi Zhang | 1326158    | Member / 成员                                        | √                 | √                 | √                   |
 | Weiqi Yu          | 1496934    | Member / 成员                                        | √                 | √                 | Ins / 教员          |
+| Yijun Chen        | 1505496    | Student / 学员                                       | ×                 | ×                 | ×                   |
 
