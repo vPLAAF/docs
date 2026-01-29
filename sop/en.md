@@ -4,13 +4,12 @@
 
 **Revision History**
 
-| Version | Date     | Author / Translator  | change                                    |
-| ------- | -------- | -------------------- | ----------------------------------------- |
-| 1.0     | Nov 2025 | Lihan Bao / 1435267  | First version                             |
-| 1.1     | Nov 2025 | Xinrui Wan / 1897662 | Add Art.18.2: Callsign rules              |
-| 1.2     | Nov 2025 | Haoyu Wu / 1621162   | Revised entry requirements                |
-| 1.3     | Jan 2026 | Xinrui Wan / 1897662 | Revised training content                  |
-| 1.4     | Jan 2026 | Xinrui Wan / 1897662 | Separate training content to new document |
+| Version | Date     | Author / Translator  | change                                                       |
+| ------- | -------- | -------------------- | ------------------------------------------------------------ |
+| 1.0     | Nov 2025 | Lihan Bao / 1435267  | First version                                                |
+| 1.1     | Nov 2025 | Xinrui Wan / 1897662 | Add Art.18.2: Callsign rules                                 |
+| 1.2     | Nov 2025 | Haoyu Wu / 1621162   | Revised entry requirements                                   |
+| 1.3     | Jan 2026 | Xinrui Wan / 1897662 | Revised training content, separate training content to new document, revised entry requirements |
 
 ------
 
@@ -171,6 +170,7 @@ Applicants must meet the following requirements:
    instructions.
 5. Follow the objectives, principles and regulations of the vPLAAF, comply with the SOP and other internal regulations.
 6. Clearly understand and accept: Joining the vPLAAF does not confer any actual military status or associated rights.
+7. Exceptional candidates may be admitted on a discretionary basis.
 
 ------
 
