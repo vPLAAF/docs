@@ -49,4 +49,10 @@
     <ModelMatchRule TypeCode="IL76" ModelName="Beriev A-50 50//Beriev A-50//Beriev A-50 33//Beriev A-50 51" />
 
     <ModelMatchRule TypeCode="T154" ModelName="Tu154B-2 85131//Tu154B-2 85375" />
+
+    <ModelMatchRule CallsignPrefix="CKJ" TypeCode="CRJ7" ModelName="aerosoft-crj-700-PLA-B4062" />
+    <ModelMatchRule CallsignPrefix="OMA" TypeCode="CRJ7" ModelName="aerosoft-crj-700-PLA-B4062" />
+    <ModelMatchRule CallsignPrefix="CKJ" TypeCode="CRJ2" ModelName="aerosoft-crj-700-PLA-B4062" />
+    <ModelMatchRule CallsignPrefix="OMA" TypeCode="CRJ2" ModelName="aerosoft-crj-700-PLA-B4062" />
+
 </ModelMatchRuleSet>
