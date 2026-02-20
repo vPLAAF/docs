@@ -7,11 +7,12 @@
 | Tony Lin          | 946171     | Director of Operations / 飞训作战部部长              | Ins / 教员        | Ins / 教员        | Ins / 教员          |
 | Steven Zhang      | 1752734    | Director of Organization / 组织部部长                | ✓                 | ✓                 | ✓                   |
 | Haoyu Wu          | 1621162    | Personnel Officer / 人事主管                         | ✓                 | ✓                 | Ins / 教员          |
-| Junzhe Yan        | 1340265    | Member / 成员                                        | Ins / 教员        | Ins / 教员        | Ins / 教员          |
-| Shengbo Yang      | 1676022    | Member / 成员                                        | ✓                 | ✓                 | ✓                   |
 | Hongye Rudi Zhang | 1326158    | Member / 成员                                        | ✓                 | ✓                 | ✓                   |
-| Weiqi Yu          | 1496934    | Member / 成员                                        | ✓                 | ✓                 | Ins / 教员          |
 | Yimo Zhang        | 1327370    | Member / 成员                                        | ×                 | ×                 | ✓                   |
+| Junzhe Yan        | 1340265    | Member / 成员                                        | Ins / 教员        | Ins / 教员        | Ins / 教员          |
+| Weiqi Yu          | 1496934    | Member / 成员                                        | ✓                 | ✓                 | Ins / 教员          |
 | Yijun Chen        | 1505496    | Member / 成员                                        | ×                 | ×                 | ✓                   |
 | Zuyang Lin        | 1649187    | Member / 成员                                        | ×                 | ×                 | ✓                   |
+| Shengbo Yang      | 1676022    | Member / 成员                                        | ✓                 | ✓                 | ✓                   |
+| Peikai Hao        | 1815561    | Student / 学员                                       | ×                 | ×                 | ×                   |
 
