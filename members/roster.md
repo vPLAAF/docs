@@ -10,7 +10,6 @@
 | Hongye Rudi Zhang | 1326158    | Member / 成员                                        | ✓                 | ✓                 | ✓                   |
 | Yimo Zhang        | 1327370    | Member / 成员                                        | ×                 | ×                 | ✓                   |
 | Junzhe Yan        | 1340265    | Member / 成员                                        | Ins / 教员        | Ins / 教员        | Ins / 教员          |
-| Weiqi Yu          | 1496934    | Member / 成员                                        | ✓                 | ✓                 | Ins / 教员          |
 | Yijun Chen        | 1505496    | Member / 成员                                        | ×                 | ×                 | ✓                   |
 | Zuyang Lin        | 1649187    | Member / 成员                                        | ×                 | ✓                 | ✓                   |
 | Shengbo Yang      | 1676022    | Member / 成员                                        | ✓                 | ✓                 | ✓                   |
