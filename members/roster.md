@@ -14,4 +14,5 @@
 | Zuyang Lin        | 1649187    | Member / 成员                                        | ×                 | ✓                 | ✓                   |
 | Shengbo Yang      | 1676022    | Member / 成员                                        | ✓                 | ✓                 | ✓                   |
 | Ziji Wang         | 1701009    | Member / 成员                                        | ×                 | ×                 | ✓                   |
+| Mingchun Chen     | 1737036    | Student/ 学员                                        | ×                 | ×                 | ×                   |
 

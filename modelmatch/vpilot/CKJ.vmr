@@ -44,6 +44,11 @@
     <ModelMatchRule TypeCode="L15" ModelName="L15 PLAAF" />
     <ModelMatchRule TypeCode="L15" ModelName="Leonardo International Flight Training School//Leonardo M-346 Primer only" />
 
+    <ModelMatchRule TypeCode="WZ10" ModelName="WZ-10 PLAAF" />
+    <ModelMatchRule TypeCode="YL10" ModelName="WZ-10 PLAAF" />
+    <ModelMatchRule TypeCode="HY1" ModelName="WZ-10 PLAAF" />
+
+
 
     <ModelMatchRule TypeCode="IL76" ModelName="Ilyushin Il-76MD China Air Force" />
     <ModelMatchRule TypeCode="IL76" ModelName="Beriev A-50 50//Beriev A-50//Beriev A-50 33//Beriev A-50 51" />
